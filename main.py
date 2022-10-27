@@ -11,3 +11,5 @@ result = numexpr.evaluate(expr)
 
 print(Fore.GREEN)
 print(f"Результат: {result} ")
+
+input()
