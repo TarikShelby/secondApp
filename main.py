@@ -24,4 +24,4 @@ elif operation == "/":
 
 print(Fore.YELLOW)
 
-print(f"Результат : {result} ")
+print(f"Результат: {result} ")
